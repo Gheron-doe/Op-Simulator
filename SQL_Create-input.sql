@@ -31,5 +31,5 @@ drop table if exists Familienaam;
 create table Familienaam(
 id int identity(1,1) not null,
 familienaam nvarchar(50) not null,
-constraint PK_Familienaam primary key clustered (id asc),
+constraint PK_Familienaam primary key clustered (id asc)
 );
