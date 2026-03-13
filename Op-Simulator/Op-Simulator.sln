@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP-Simulator_BL", "OP-Simulator_BL\OP-Simulator_BL.csproj", "{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP-Simulator_DL_File", "OP-Simulator_DL_File\OP-Simulator_DL_File.csproj", "{739F2125-20C5-444E-9DC3-6D2E943DAA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OP-Simulator_DL_SQL", "OP-Simulator_DL_SQL\OP-Simulator_DL_SQL.csproj", "{54B806B7-3602-48AB-87B7-C94526B848E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739F2125-20C5-444E-9DC3-6D2E943DAA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739F2125-20C5-444E-9DC3-6D2E943DAA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739F2125-20C5-444E-9DC3-6D2E943DAA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739F2125-20C5-444E-9DC3-6D2E943DAA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B806B7-3602-48AB-87B7-C94526B848E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B806B7-3602-48AB-87B7-C94526B848E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B806B7-3602-48AB-87B7-C94526B848E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B806B7-3602-48AB-87B7-C94526B848E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
