@@ -11,10 +11,10 @@ namespace OP_Simulator_BL.Beheer
     {
         private Random rn = new();
         private List<string> straten = new();
-        private List<(int postcode, string gemeente)> gemeenten = new();
+        private List<(string postcode, string gemeente)> gemeenten = new();
         private int minHsnr, maxHsnr;
 
-        public AdresGenerator(List<string> straten, List<(int postcode, string gemeente)> gemeenten, int minHsnr, int maxHsnr)
+        public AdresGenerator(List<string> straten, List<(string postcode, string gemeente)> gemeenten, int minHsnr, int maxHsnr)
         {
             this.straten = straten;
             this.gemeenten = gemeenten;
