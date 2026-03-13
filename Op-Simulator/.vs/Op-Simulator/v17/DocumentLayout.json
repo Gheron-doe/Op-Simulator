@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\local-school-files\\pg1_oef\\klantensimulator\\op-simulator\\op-simulator\\op-simulator_bl\\model\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\model\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\local-school-files\\pg1_oef\\klantensimulator\\op-simulator\\op-simulator\\op-simulator_bl\\beheer\\adresgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\beheer\\adresgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\local-school-files\\pg1_oef\\klantensimulator\\op-simulator\\op-simulator\\op-simulator_bl\\beheer\\klantgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\beheer\\klantgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\local-school-files\\pg1_oef\\klantensimulator\\op-simulator\\op-simulator\\op-simulator_bl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\local-school-files\\pg1_oef\\klantensimulator\\op-simulator\\op-simulator\\op-simulator_bl\\beheer\\databeheerder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\beheer\\databeheerder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Klant.cs",
-              "DocumentMoniker": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Klant.cs",
-              "RelativeDocumentMoniker": "OP-Simulator_BL\\Model\\Klant.cs",
-              "ToolTip": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Klant.cs",
-              "RelativeToolTip": "OP-Simulator_BL\\Model\\Klant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T08:39:47.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Adres.cs",
               "DocumentMoniker": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Adres.cs",
               "RelativeDocumentMoniker": "OP-Simulator_BL\\Model\\Adres.cs",
               "ToolTip": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Adres.cs",
               "RelativeToolTip": "OP-Simulator_BL\\Model\\Adres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:52:01.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBeheerder.cs",
+              "DocumentMoniker": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\DataBeheerder.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Beheer\\DataBeheerder.cs",
+              "ToolTip": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\DataBeheerder.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Beheer\\DataBeheerder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T08:39:54.005Z",
+              "WhenOpened": "2026-03-13T09:42:31.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlantGenerator.cs",
+              "DocumentMoniker": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "ToolTip": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:42:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdresGenerator.cs",
+              "DocumentMoniker": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "ToolTip": "C:\\local-school-files\\PG1_oef\\KlantenSimulator\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCEAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:41:51.569Z",
               "EditorCaption": ""
             }
           ]
