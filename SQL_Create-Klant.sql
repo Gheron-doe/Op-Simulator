@@ -1,5 +1,4 @@
 drop table if exists Klant;
-drop table if exists Adres;
 
 create table Klant(
 id int identity(1,1) not null,
