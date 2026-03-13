@@ -3,68 +3,204 @@
   "WorkspaceRootPath": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D540C892-A4F5-42FF-83B3-68DEEDDC3B49}|ConsoleAppSimulator\\ConsoleAppSimulator.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\consoleappsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D540C892-A4F5-42FF-83B3-68DEEDDC3B49}|ConsoleAppSimulator\\ConsoleAppSimulator.csproj|solutionrelative:consoleappsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54B806B7-3602-48AB-87B7-C94526B848E1}|OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_dl_sql\\op-simulator_dl_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54B806B7-3602-48AB-87B7-C94526B848E1}|OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj|solutionrelative:op-simulator_dl_sql\\op-simulator_dl_sql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739F2125-20C5-444E-9DC3-6D2E943DAA29}|OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_dl_file\\op-simulator_dl_file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{739F2125-20C5-444E-9DC3-6D2E943DAA29}|OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj|solutionrelative:op-simulator_dl_file\\op-simulator_dl_file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_bl\\op-simulator_bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\op-simulator_bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D540C892-A4F5-42FF-83B3-68DEEDDC3B49}|ConsoleAppSimulator\\ConsoleAppSimulator.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\consoleappsimulator\\consoleappsimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D540C892-A4F5-42FF-83B3-68DEEDDC3B49}|ConsoleAppSimulator\\ConsoleAppSimulator.csproj|solutionrelative:consoleappsimulator\\consoleappsimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{739F2125-20C5-444E-9DC3-6D2E943DAA29}|OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_dl_file\\adressbestandlezer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{739F2125-20C5-444E-9DC3-6D2E943DAA29}|OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj|solutionrelative:op-simulator_dl_file\\adressbestandlezer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_bl\\beheer\\adresgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\beheer\\adresgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_bl\\beheer\\klantgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\beheer\\klantgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D540C892-A4F5-42FF-83B3-68DEEDDC3B49}|ConsoleAppSimulator\\ConsoleAppSimulator.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\consoleappsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D540C892-A4F5-42FF-83B3-68DEEDDC3B49}|ConsoleAppSimulator\\ConsoleAppSimulator.csproj|solutionrelative:consoleappsimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54B806B7-3602-48AB-87B7-C94526B848E1}|OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_dl_sql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54B806B7-3602-48AB-87B7-C94526B848E1}|OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj|solutionrelative:op-simulator_dl_sql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_bl\\model\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\model\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|c:\\users\\man0h\\op-simulator\\op-simulator\\op-simulator_bl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C79D58-6DCC-4106-8CE9-6C413E6DC1A1}|OP-Simulator_BL\\OP-Simulator_BL.csproj|solutionrelative:op-simulator_bl\\model\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 218,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OP-Simulator_DL_SQL",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj",
+              "RelativeDocumentMoniker": "OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj",
+              "RelativeToolTip": "OP-Simulator_DL_SQL\\OP-Simulator_DL_SQL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T11:14:20.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OP-Simulator_DL_File",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj",
+              "RelativeDocumentMoniker": "OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj",
+              "RelativeToolTip": "OP-Simulator_DL_File\\OP-Simulator_DL_File.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T11:14:12.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OP-Simulator_BL",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\OP-Simulator_BL.csproj",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\OP-Simulator_BL.csproj",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\OP-Simulator_BL.csproj",
+              "RelativeToolTip": "OP-Simulator_BL\\OP-Simulator_BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T11:13:03.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleAppSimulator",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\ConsoleAppSimulator\\ConsoleAppSimulator.csproj",
+              "RelativeDocumentMoniker": "ConsoleAppSimulator\\ConsoleAppSimulator.csproj",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\ConsoleAppSimulator\\ConsoleAppSimulator.csproj",
+              "RelativeToolTip": "ConsoleAppSimulator\\ConsoleAppSimulator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T11:12:53.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdressBestandlezer.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_File\\AdressBestandlezer.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_DL_File\\AdressBestandlezer.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_File\\AdressBestandlezer.cs",
+              "RelativeToolTip": "OP-Simulator_DL_File\\AdressBestandlezer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:09:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdresGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Beheer\\AdresGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:08:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KlantGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Beheer\\KlantGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:01:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Klant.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Klant.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Model\\Klant.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Klant.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Model\\Klant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:01:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Adres.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_BL\\Model\\Adres.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_BL\\Model\\Adres.cs",
+              "RelativeToolTip": "OP-Simulator_BL\\Model\\Adres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:01:10.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\ConsoleAppSimulator\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSimulator\\Program.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\ConsoleAppSimulator\\Program.cs",
+              "RelativeToolTip": "ConsoleAppSimulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T10:12:06.483Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\ConsoleAppSimulator\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppSimulator\\Program.cs",
-              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\ConsoleAppSimulator\\Program.cs",
-              "RelativeToolTip": "ConsoleAppSimulator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T10:12:06.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_SQL\\Class1.cs",
-              "RelativeDocumentMoniker": "OP-Simulator_DL_SQL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_SQL\\Class1.cs",
-              "RelativeToolTip": "OP-Simulator_DL_SQL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:54:58.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdressBestandlezer.cs",
-              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_File\\AdressBestandlezer.cs",
-              "RelativeDocumentMoniker": "OP-Simulator_DL_File\\AdressBestandlezer.cs",
-              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_File\\AdressBestandlezer.cs",
-              "RelativeToolTip": "OP-Simulator_DL_File\\AdressBestandlezer.cs",
+              "DocumentIndex": 8,
+              "Title": "class1.cs",
+              "DocumentMoniker": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_SQL\\class1.cs",
+              "RelativeDocumentMoniker": "OP-Simulator_DL_SQL\\class1.cs",
+              "ToolTip": "C:\\Users\\Man0h\\Op-Simulator\\Op-Simulator\\OP-Simulator_DL_SQL\\class1.cs",
+              "RelativeToolTip": "OP-Simulator_DL_SQL\\class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:54:17.203Z",
+              "WhenOpened": "2026-03-13T09:54:58.183Z",
               "EditorCaption": ""
             }
           ]

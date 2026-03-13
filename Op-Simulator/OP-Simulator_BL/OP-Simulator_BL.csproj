@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Beheer\" />
+    <Folder Include="Interfaces\" />
   </ItemGroup>
 
 </Project>
