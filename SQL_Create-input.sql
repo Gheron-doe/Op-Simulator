@@ -26,9 +26,9 @@ voornaam nvarchar(25) not null,
 constraint PK_Voornaam_V primary key clustered (id asc)
 );
 
-drop table if exists Familinaam;
+drop table if exists Familienaam;
 
-create table Familinaam(
+create table Familienaam(
 id int identity(1,1) not null,
 familienaam nvarchar(50) not null,
 constraint PK_Familienaam primary key clustered (id asc),
