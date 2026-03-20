@@ -9,6 +9,6 @@ namespace OP_Simulator_BL.Interfaces
 {
     public interface IFileReader
     {
-        List<Klant> LeesBestanden(string folderPath, List<string> fileNames);
+        List<string> LeesNamen(string folderPath, List<string> fileNames);
     }
 }
