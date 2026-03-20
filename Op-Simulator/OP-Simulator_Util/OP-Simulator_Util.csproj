@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OP-Simulator_BL\OP-Simulator_BL.csproj" />
+    <ProjectReference Include="..\OP-Simulator_DL_File\OP-Simulator_DL_File.csproj" />
+    <ProjectReference Include="..\OP-Simulator_DL_SQL\OP-Simulator_DL_SQL.csproj" />
+  </ItemGroup>
+
 </Project>
